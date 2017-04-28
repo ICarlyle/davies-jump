@@ -1,0 +1,97 @@
+
+** (zeitgeist-datahub:1714): WARNING **: zeitgeist-datahub.vala:212: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+
+** (zeitgeist-datahub:1714): WARNING **: zeitgeist-datahub.vala:212: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+
+** (zeitgeist-datahub:1714): WARNING **: zeitgeist-datahub.vala:212: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+
+** (zeitgeist-datahub:1714): WARNING **: zeitgeist-datahub.vala:212: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+
+** (zeitgeist-datahub:1714): WARNING **: zeitgeist-datahub.vala:212: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+
+** (zeitgeist-datahub:1714): WARNING **: zeitgeist-datahub.vala:212: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+
+** (zeitgeist-datahub:1714): WARNING **: zeitgeist-datahub.vala:212: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+
+** (zeitgeist-datahub:1714): WARNING **: zeitgeist-datahub.vala:212: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+
+** (zeitgeist-datahub:1714): WARNING **: zeitgeist-datahub.vala:212: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+
+** (zeitgeist-datahub:1714): WARNING **: zeitgeist-datahub.vala:212: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+Activating service name='com.ubuntu.OneConf'
+Successfully activated service 'com.ubuntu.OneConf'
+WARNING:oneconf.hosts:Error in loading other_hosts file: [Errno 2] No such file or directory: '/home/user/.cache/oneconf/87455bf4a304ffab3b68e8e356b37e8e/other_hosts'
+Activating service name='com.ubuntu.sso'
+Successfully activated service 'com.ubuntu.sso'
+
+** (zeitgeist-datahub:1714): WARNING **: downloads-directory-provider.vala:120: Couldn't process /home/user/.gbacc.swpx: Error when getting information for file '/home/user/.gbacc.swpx': No such file or directory
+
+** (zeitgeist-datahub:1714): WARNING **: downloads-directory-provider.vala:120: Couldn't process /home/user/.viminfo.tmp: Error when getting information for file '/home/user/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:1714): WARNING **: downloads-directory-provider.vala:120: Couldn't process /home/user/.gbacc.swp: Error when getting information for file '/home/user/.gbacc.swp': No such file or directory
+
+** (zeitgeist-datahub:1714): WARNING **: downloads-directory-provider.vala:120: Couldn't process /home/user/.gbacc.swp: Error when getting information for file '/home/user/.gbacc.swp': No such file or directory
+
+** (zeitgeist-datahub:1714): WARNING **: downloads-directory-provider.vala:120: Couldn't process /home/user/.gbacc.swpx: Error when getting information for file '/home/user/.gbacc.swpx': No such file or directory
+
+** (zeitgeist-datahub:1714): WARNING **: downloads-directory-provider.vala:120: Couldn't process /home/user/.viminfo.tmp: Error when getting information for file '/home/user/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:1714): WARNING **: downloads-directory-provider.vala:120: Couldn't process /home/user/.gbacc.sh.swx: Error when getting information for file '/home/user/.gbacc.sh.swx': No such file or directory
+
+** (zeitgeist-datahub:1714): WARNING **: zeitgeist-datahub.vala:212: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+
+** (zeitgeist-datahub:1714): WARNING **: downloads-directory-provider.vala:120: Couldn't process /home/user/.viminfo.tmp: Error when getting information for file '/home/user/.viminfo.tmp': No such file or directory
+Activating service name='com.ubuntu.sso'
+Successfully activated service 'com.ubuntu.sso'
+
+** (zeitgeist-datahub:1714): WARNING **: zeitgeist-datahub.vala:212: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+
+** (zeitgeist-datahub:1714): WARNING **: zeitgeist-datahub.vala:212: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+
+** (zeitgeist-datahub:1714): WARNING **: zeitgeist-datahub.vala:212: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+
+** (zeitgeist-datahub:1714): WARNING **: downloads-directory-provider.vala:120: Couldn't process /home/user/.gbacc.swpx: Error when getting information for file '/home/user/.gbacc.swpx': No such file or directory
+
+** (zeitgeist-datahub:1714): WARNING **: downloads-directory-provider.vala:120: Couldn't process /home/user/.viminfo.tmp: Error when getting information for file '/home/user/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:1714): WARNING **: downloads-directory-provider.vala:120: Couldn't process /home/user/.gbacc.swpx: Error when getting information for file '/home/user/.gbacc.swpx': No such file or directory
+
+** (zeitgeist-datahub:1714): WARNING **: downloads-directory-provider.vala:120: Couldn't process /home/user/4913: Error when getting information for file '/home/user/4913': No such file or directory
+
+** (zeitgeist-datahub:1714): WARNING **: downloads-directory-provider.vala:120: Couldn't process /home/user/gbacc~: Error when getting information for file '/home/user/gbacc~': No such file or directory
+
+** (zeitgeist-datahub:1714): WARNING **: zeitgeist-datahub.vala:212: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+
+** (zeitgeist-datahub:1714): WARNING **: downloads-directory-provider.vala:120: Couldn't process /home/user/.viminfo.tmp: Error when getting information for file '/home/user/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:1714): WARNING **: zeitgeist-datahub.vala:212: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+
+** (zeitgeist-datahub:1714): WARNING **: zeitgeist-datahub.vala:212: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+
+** (zeitgeist-datahub:1714): WARNING **: downloads-directory-provider.vala:120: Couldn't process /home/user/.gbacc2.swpx: Error when getting information for file '/home/user/.gbacc2.swpx': No such file or directory
+
+** (zeitgeist-datahub:1714): WARNING **: zeitgeist-datahub.vala:212: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required
+
+** (zeitgeist-datahub:1714): WARNING **: downloads-directory-provider.vala:120: Couldn't process /home/user/.viminfo.tmp: Error when getting information for file '/home/user/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:1714): WARNING **: downloads-directory-provider.vala:120: Couldn't process /home/user/.gbacc2.swpx: Error when getting information for file '/home/user/.gbacc2.swpx': No such file or directory
+
+** (zeitgeist-datahub:1714): WARNING **: downloads-directory-provider.vala:120: Couldn't process /home/user/.viminfo.tmp: Error when getting information for file '/home/user/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:1714): WARNING **: downloads-directory-provider.vala:120: Couldn't process /home/user/.gbacc.swpx: Error when getting information for file '/home/user/.gbacc.swpx': No such file or directory
+
+** (zeitgeist-datahub:1714): WARNING **: downloads-directory-provider.vala:120: Couldn't process /home/user/.viminfo.tmp: Error when getting information for file '/home/user/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:1714): WARNING **: downloads-directory-provider.vala:120: Couldn't process /home/user/.gbacc2.swpx: Error when getting information for file '/home/user/.gbacc2.swpx': No such file or directory
+
+** (zeitgeist-datahub:1714): WARNING **: downloads-directory-provider.vala:120: Couldn't process /home/user/.viminfo.tmp: Error when getting information for file '/home/user/.viminfo.tmp': No such file or directory
+
+** (zeitgeist-datahub:1714): WARNING **: downloads-directory-provider.vala:120: Couldn't process /home/user/delay.o: Error when getting information for file '/home/user/delay.o': No such file or directory
+
+** (zeitgeist-datahub:1714): WARNING **: downloads-directory-provider.vala:120: Couldn't process /home/user/jump.o: Error when getting information for file '/home/user/jump.o': No such file or directory
+
+** (zeitgeist-datahub:1714): WARNING **: downloads-directory-provider.vala:120: Couldn't process /home/user/theDashingDavies.o: Error when getting information for file '/home/user/theDashingDavies.o': No such file or directory
+
+** (zeitgeist-datahub:1714): WARNING **: downloads-directory-provider.vala:120: Couldn't process /home/user/program.elf: Error when getting information for file '/home/user/program.elf': No such file or directory
+
+** (zeitgeist-datahub:1714): WARNING **: zeitgeist-datahub.vala:212: Error during inserting events: GDBus.Error:org.gnome.zeitgeist.EngineError.InvalidArgument: Incomplete event: interpretation, manifestation and actor are required

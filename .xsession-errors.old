@@ -1,0 +1,13 @@
+openConnection: connect: No such file or directory
+cannot connect to brltty at :0
+/home/user/Downloads was removed, reassigning DOWNLOAD to homedir
+/home/user/Templates was removed, reassigning TEMPLATES to homedir
+/home/user/Public was removed, reassigning PUBLICSHARE to homedir
+/home/user/Documents was removed, reassigning DOCUMENTS to homedir
+/home/user/Music was removed, reassigning MUSIC to homedir
+/home/user/Pictures was removed, reassigning PICTURES to homedir
+/home/user/Videos was removed, reassigning VIDEOS to homedir
+Script for none started at run_im.
+Script for auto started at run_im.
+Script for default started at run_im.
+init: Disconnected from notified D-Bus bus

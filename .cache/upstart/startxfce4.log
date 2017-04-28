@@ -1,0 +1,9 @@
+thunar-volman: Unsupported USB device type.
+thunar-volman: Unsupported USB device type.
+
+(Thunar:1628): thunar-uca-WARNING **: Failed to load `/home/user/.config/Thunar/uca.xml': Error on line 1 char 1: Document was empty or contained only whitespace
+
+(xfce4-terminal:2052): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
+WARNING:root:can not import unity GI cannot import name Dbusmenu, introspection typelib not found
+
+(xfce4-terminal:2886): Gdk-CRITICAL **: IA__gdk_window_get_window_type: assertion 'GDK_IS_WINDOW (window)' failed
