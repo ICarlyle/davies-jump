@@ -6,6 +6,11 @@ that you will need to setup with Virtual Box.  The .ova file is available to dow
 
 http://cs.umw.edu/~finlayson/class/spring16/cpsc305/misc/01-compiling-vm.html
 
+
+Git clone:
+https://github.com/ICarlyle/davies-jump
+
+
 To compile the game:
 
 `./gbacc2 delay.s jump.s theDashingDavies.c`
